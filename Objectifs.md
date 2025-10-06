@@ -1,4 +1,32 @@
-Bienvenue dans votre nouveau rôle chez Waze ! Nous sommes ravis de vous compter parmi les membres de l'équipe chargée des données !
+Objectif du projet :
+
+La direction de Waze a demandé à votre équipe de données de développer un modèle d'apprentissage automatique pour prédire le désabonnement des utilisateurs. Le taux d'attrition quantifie le nombre d'utilisateurs qui ont désinstallé l'application Waze ou qui ont cessé de l'utiliser. Ce projet se concentre sur le taux de désabonnement mensuel. Un modèle précis permettra de prévenir le désabonnement, d'améliorer la fidélisation des utilisateurs et de développer l'activité de Waze.
+Contexte :
+
+L'application de navigation gratuite Waze permet aux conducteurs du monde entier de se rendre plus facilement là où ils le souhaitent. La communauté d'éditeurs de cartes, de bêta-testeurs, de traducteurs, de partenaires et d'utilisateurs de Waze contribue à améliorer chaque trajet et à le rendre plus sûr.
+Scénario :
+Vous êtes le nouveau membre de l'équipe de données de Waze. Votre équipe est sur le point de commencer son projet de désabonnement des utilisateurs. La première étape consiste à créer une proposition de projet. La proposition définira clairement l'objectif global du projet et identifiera les tâches clés, les jalons et les parties prenantes.
+
+Tâches 1 :
+•	Attribuer des étapes PACE aux tâches demandées pour le projet de désabonnement des utilisateurs
+•	Organiser les tâches en étapes
+•	Créer une proposition de projet pour l'équipe de données de Waze
+
+Note : L'histoire, les noms, les personnages et les incidents décrits dans ce projet sont fictifs. Aucune identification avec des personnes réelles (vivantes ou décédées) n'est prévue ou ne doit être déduite. Les données partagées dans ce projet ont été créées à des fins pédagogiques.
+Principaux enseignements
+Dans le cours 1, Fondements de la Science des données, vous avez exploré le monde des professionnels des données et appris comment l'analyse des données contribue aux objectifs d'une organisation.
+Compétences du cours 1 :
+•	Communication efficace
+•	Comprendre la dynamique des équipes pluridisciplinaires
+•	Gestion de projet
+•	Partager des idées avec les parties prenantes
+Livrables du projet de fin de cours du cours 1 :
+•	Compléter le document de stratégie PACE du cours 1
+•	Créer une proposition de projet
+
+Les projets de portefeuille de fin de cours sont conçus pour vous permettre d'appliquer vos compétences en matière d'Analytique des données dans le cadre d'un scénario sur le lieu de travail. Quel que soit le scénario choisi, vous mettrez en pratique votre capacité à discuter de sujets liés à l'analytique des données avec des collègues, des membres de l'équipe interne et des clients externes.
+
+Pour rappel, vous devez réaliser un projet pour chaque cours. Pour acquérir une pratique supplémentaire, ou pour ajouter plus d'échantillons à votre portefeuille, vous pouvez compléter autant de scénarios que vous le souhaitez.Bienvenue dans votre nouveau rôle chez Waze ! Nous sommes ravis de vous compter parmi les membres de l'équipe chargée des données !
 
 L'application de navigation gratuite de Waze permet aux conducteurs du monde entier de se rendre plus facilement là où ils veulent aller. La communauté d'éditeurs de cartes, de bêta-testeurs, de traducteurs, de partenaires et d'utilisateurs de Waze contribue à améliorer chaque trajet et à le rendre plus sûr. Waze s'associe à des villes, des autorités de transport, des diffuseurs, des entreprises et des premiers intervenants pour aider le plus grand nombre à voyager plus efficacement et en toute sécurité.
 
