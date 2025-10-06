@@ -18,7 +18,8 @@ Contexte du projet
 
 Bienvenue dans votre nouveau rôle chez TikTok ! Nous sommes ravis de vous compter parmi les membres de l'équipe chargée des données !
 
-Chez TikTok, notre mission est d'inspirer la créativité et d'apporter de la joie. Nos employés font preuve de curiosité et évoluent à la vitesse de la culture. Grâce à la structure horizontale de notre entreprise, vous aurez des opportunités dynamiques d'avoir un impact réel sur une entreprise en pleine expansion et de développer votre carrière.
+Chez TikTok, notre mission est d'inspirer la créativité et d'apporter de la joie. 
+Nos employés font preuve de curiosité et évoluent à la vitesse de la culture. Grâce à la structure horizontale de notre entreprise, vous aurez des opportunités dynamiques d'avoir un impact réel sur une entreprise en pleine expansion et de développer votre carrière.
 Les utilisateurs de TikTok ont la possibilité de signaler les vidéos et les commentaires qui contiennent des revendications d'utilisateurs. Ces rapports identifient les contenus qui doivent être examinés par les modérateurs. Ce processus génère un grand nombre de rapports d'utilisateurs qu'il est difficile de traiter rapidement.
 TikTok travaille à la mise au point d'un modèle prédictif capable de déterminer si une vidéo contient une revendication ou offre une opinion. Avec un modèle prédictif performant, TikTok peut réduire le nombre de rapports d'utilisateurs en attente et les classer par ordre de priorité de manière plus efficace.
 
@@ -26,7 +27,8 @@ Votre mission :
 Pour votre première mission, TikTok vous demande une proposition de projet qui créera des jalons pour les tâches du projet de classification des commentaires. N'oubliez pas de tenir compte de votre public, de votre équipe, de l'objectif du projet et des étapes PACE de chaque tâche lors de la planification de votre livrable de projet.
 
 Membres de l'équipe de TikTok :
-En tant que nouveau analyste de données, vous travaillerez en étroite collaboration avec une équipe talentueuse de professionnels des données expérimentés. Vous collaborerez également avec des collègues de TikTok en dehors de l'équipe de données, en fonction des besoins de votre projet.
+En tant que nouveau analyste de données, vous travaillerez en étroite collaboration avec une équipe talentueuse de professionnels des données expérimentés.
+Vous collaborerez également avec des collègues de TikTok en dehors de l'équipe de données, en fonction des besoins de votre projet.
 
 Rôles de l'équipe de données
 Willow Jaffey- Responsable de la Science des données
