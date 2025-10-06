@@ -1,9 +1,9 @@
 Objectif du projet :
-
 La direction de Waze a demandé à votre équipe de données de développer un modèle d'apprentissage automatique pour prédire le désabonnement des utilisateurs. Le taux d'attrition quantifie le nombre d'utilisateurs qui ont désinstallé l'application Waze ou qui ont cessé de l'utiliser. Ce projet se concentre sur le taux de désabonnement mensuel. Un modèle précis permettra de prévenir le désabonnement, d'améliorer la fidélisation des utilisateurs et de développer l'activité de Waze.
-Contexte :
 
+Contexte :
 L'application de navigation gratuite Waze permet aux conducteurs du monde entier de se rendre plus facilement là où ils le souhaitent. La communauté d'éditeurs de cartes, de bêta-testeurs, de traducteurs, de partenaires et d'utilisateurs de Waze contribue à améliorer chaque trajet et à le rendre plus sûr.
+
 Scénario :
 Vous êtes le nouveau membre de l'équipe de données de Waze. Votre équipe est sur le point de commencer son projet de désabonnement des utilisateurs. La première étape consiste à créer une proposition de projet. La proposition définira clairement l'objectif global du projet et identifiera les tâches clés, les jalons et les parties prenantes.
 
@@ -13,6 +13,7 @@ Tâches 1 :
 •	Créer une proposition de projet pour l'équipe de données de Waze
 
 Note : L'histoire, les noms, les personnages et les incidents décrits dans ce projet sont fictifs. Aucune identification avec des personnes réelles (vivantes ou décédées) n'est prévue ou ne doit être déduite. Les données partagées dans ce projet ont été créées à des fins pédagogiques.
+
 Principaux enseignements
 Dans le cours 1, Fondements de la Science des données, vous avez exploré le monde des professionnels des données et appris comment l'analyse des données contribue aux objectifs d'une organisation.
 Compétences du cours 1 :
@@ -32,6 +33,7 @@ L'application de navigation gratuite de Waze permet aux conducteurs du monde ent
 
 Vous collaborerez avec vos coéquipiers de Waze pour analyser et interpréter les données, générer des informations précieuses et aider le leadership à prendre des décisions commerciales éclairées. Votre équipe est sur le point de lancer un nouveau projet visant à prévenir le désabonnement des utilisateurs de l'application Waze. Le taux d'attrition quantifie le nombre d'utilisateurs qui ont désinstallé l'application Waze ou qui ont cessé de l'utiliser. Ce projet se concentre sur le taux d'attrition mensuel des utilisateurs. Dans votre rôle, vous analyserez les données des utilisateurs et développerez un modèle d'apprentissage automatique qui prédit le désabonnement des utilisateurs.
 
+
 Ce projet fait partie d'un effort plus large de Waze pour augmenter la croissance. Généralement, les taux de rétention élevés indiquent que les utilisateurs sont satisfaits et utilisent l'application Waze de manière répétée au fil du temps. Le développement d'un modèle de prédiction de l'attrition permettra de prévenir l'attrition, d'améliorer la fidélisation des utilisateurs et de développer l'activité de Waze. Un modèle précis peut également aider à identifier les facteurs spécifiques qui contribuent au désabonnement et répondre à des questions telles que :
 
 Qui sont les utilisateurs les plus susceptibles de se désabonner ?
@@ -46,13 +48,9 @@ Vos idées aideront les dirigeants de Waze à optimiser la stratégie de conserv
 
 Contexte du projet
 L'équipe de données de Waze en est aux premières étapes du projet sur le désabonnement. Les tâches suivantes sont nécessaires avant que l'équipe puisse commencer le processus d'analyse des données :
-
 Une proposition de projet identifiant les éléments suivants :
-
 Organiser les tâches du projet en jalons
-
 Classifier les tâches à l'aide du flux de travail PACE
-
 Identifier les parties prenantes concernées
 
 Votre mission
