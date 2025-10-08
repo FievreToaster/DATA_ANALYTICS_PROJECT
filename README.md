@@ -1,20 +1,27 @@
-<img src="ChatGPT Image 8 oct. 2025, 14_49_19.png" alt="banner" width="500">
+<img width="846" height="194" alt="image" src="https://github.com/user-attachments/assets/e0be3992-96cb-41a0-89a0-c2a9b173fea6" /><img src="ChatGPT Image 8 oct. 2025, 14_49_19.png" alt="banner" width="500">
 
-# DATA_ANALYTICS_PROJECT
+# 🧠 DATA_ANALYTICS_PROJECT
 
-Ici vous retrouverez les projets de DATA ANALYST qui ont été menés a bien.
+Bienvenue dans ce répertoire regroupant les projets de **Data Analyst** menés à bien.  
+Chaque projet combine des compétences analytiques, techniques et de communication, en utilisant les outils clés de la data science moderne.  
 
-Elles ont combinés l'utilisation d'outils tels que : 
+---
 
-🐍 Python                       Analyse, ML, automatisation
-📒 Jupyter Notebooks            Documentation + exécution
-📊 Pandas & NumPy               Nettoyage, traitement
-📈 Matplolib & SeaBorn          Graphiques
-🤖 Scikit-learn                 Modélisation et test
-🧮 Statsmodels                  Modélisation et test
-💾 SQL                          Récupération de données
-🧭 Tableau & Google Sheets      Communication
-⚙️ Git & GitHub                 Versioning / partage
+## 🧰 Outils utilisés
+
+| Outil | Rôle principal |
+|--------|----------------|
+| 🐍 **Python** | Analyse, modélisation, automatisation |
+| 📒 **Jupyter Notebooks** | Documentation et exécution du code |
+| 🧮 **Pandas & NumPy** | Nettoyage et traitement des données |
+| 📊 **Matplotlib & Seaborn** | Visualisation et graphiques |
+| 🤖 **Scikit-learn** | Modélisation et tests prédictifs |
+| 📈 **Statsmodels** | Analyse statistique avancée |
+| 💾 **SQL** | Extraction et manipulation des données |
+| 🧭 **Tableau & Google Sheets** | Communication et tableaux de bord |
+| ⚙️ **Git & GitHub** | Gestion de version et partage collaboratif |
+
+---
 
 <img src="TLC_image.png" alt="banner" width="200">
 
