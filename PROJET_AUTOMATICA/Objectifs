@@ -1,10 +1,25 @@
 Objectif du projet :
-Dans ce scénario fictif, la Commission des taxis et limousines (TLC) de la ville de New York a fait appel à la société de conseil en données Automatidata pour développer une appli permettant aux usagers de la TLC d'estimer les tarifs des taxis à l'avance de leur course.
+
+Dans ce scénario, la Commission des taxis et limousines (TLC) de la ville de New York a fait appel à la société de conseil en données Automatidata 
+pour développer une appli permettant aux usagers de la TLC d'estimer les tarifs des taxis à l'avance de leur course.
+
 Contexte :
-Depuis 1971, la TLC réglemente et supervise la délivrance des licences des taxis, des véhicules pour compte d'autrui, des fourgonnettes de banlieue et des véhicules de transport adapté de la ville de New York.
+
+Depuis 1971, la TLC réglemente et supervise la délivrance des licences des taxis, des véhicules pour compte d'autrui, des fourgonnettes de banlieue 
+et des véhicules de transport adapté de la ville de New York.
+
 Scénario :
-Vous êtes un professionnel des données nouvellement embauché par Automatidata, une société fictive de conseil en données. L'objectif d'Automatidata est d'aider ses clients à transformer leurs données inutilisées et stockées en solutions utiles. Dans ce scénario, vous allez consulter la Commission des taxis et limousines de la ville de New York pour développer une application qui aidera les utilisateurs (les usagers de la TLC) à estimer leurs frais de taxi avant leur course. Votre première responsabilité en tant que consultant en analytique des données sera de structurer les tâches nécessaires dans une proposition de projet qui établit des jalons pour le projet de données sur les tarifs des courses.
+
+Vous êtes un professionnel des données nouvellement embauché par Automatidata, une société fictive de conseil en données.
+L'objectif d'Automatidata est d'aider ses clients à transformer leurs données inutilisées et stockées en solutions utiles.
+Dans ce scénario, vous allez consulter la Commission des taxis et limousines de la ville de New York pour développer une application qui aidera les utilisateurs 
+(les usagers de la TLC) à estimer leurs frais de taxi avant leur course. 
+
+Votre première responsabilité en tant que consultant en analytique des données 
+sera de structurer les tâches nécessaires dans une proposition de projet qui établit des jalons pour le projet de données sur les tarifs des courses.
+
 Tâches du cours 1 :
+
 •	Rassembler des informations à partir des notes de la dernière réunion de direction d'Automatidata
 •	Attribuer des étapes PACE aux tâches demandées
 •	Organiser les tâches en étapes
