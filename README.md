@@ -27,8 +27,7 @@ Chaque projet combine des compétences analytiques, techniques et de communicati
 
 1-PROJET_AUTOMATICA Public
 
-Ce projet se concentre sur le taux de désabonnement mensuel.
-Un modèle précis permettra de prévenir le désabonnement, d'améliorer la fidélisation des utilisateurs et de développer l'activité de Waze.
+La Commission des taxis et limousines (TLC) de la ville de New York a fait appel à la société de conseil en données Automatidata pour développer une appli permettant aux usagers de la TLC d'estimer le cout de trajet aux usagers.
 
 <img src="TIKTOK_image.png" alt="banner" width="200">
 
@@ -40,4 +39,6 @@ L'équipe chargée des données de TikTok développe un modèle d'apprentissage 
 
 3-PROJET_WAZE Public
 
-La Commission des taxis et limousines (TLC) de la ville de New York a fait appel à la société de conseil en données Automatidata pour développer une appli permettant aux usagers de la TLC d'estimer le cout de trajet aux usagers.
+Ce projet se concentre sur le taux de désabonnement mensuel.
+Un modèle précis permettra de prévenir le désabonnement, d'améliorer la fidélisation des utilisateurs et de développer l'activité de Waze.
+
