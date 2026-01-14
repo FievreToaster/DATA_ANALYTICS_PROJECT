@@ -1,30 +1,40 @@
 Objectif du projet :
+
 L'équipe chargée des données de TikTok développe un modèle d'apprentissage automatique pour classer les affirmations faites dans les vidéos soumises à la plateforme.
 
 Contexte :
+
 TikTok est la première destination pour les vidéos mobiles de courte durée. La plateforme est conçue pour aider l'imagination à s'épanouir. La mission de TikTok est de créer un lieu de contenu inclusif, joyeux et authentique, où les gens peuvent découvrir, créer et se connecter en toute sécurité.
 
 Scénario :
+
 En tant qu'Analyste des données au sein de l'équipe de données de TikTok, avec de nouvelles considérations de l'équipe de direction, vous allez créer une proposition de projet en répartissant les tâches analytiques des données requises en jalons réalistes qui conseilleront les étapes futures du projet de classification des réclamations.
 
 Tâches du cours 1 :
+
 L'équipe de TikTok chargée des données en est aux premières étapes du projet de classification des réclamations. Les tâches suivantes sont nécessaires avant que l'équipe puisse commencer le processus d'analyse des données :
 •	Recueillir des informations à partir des notes des parties prenantes dans TikTok
 •	Attribuer des étapes PACE aux tâches requises pour le projet de classification
 •	Organiser les tâches en étapes
 •	Créer une proposition de projet pour l'équipe de données de TikTok
 
-Contexte du projet
+Contexte du projet :
 
 Bienvenue dans votre nouveau rôle chez TikTok ! Nous sommes ravis de vous compter parmi les membres de l'équipe chargée des données !
 
 Chez TikTok, notre mission est d'inspirer la créativité et d'apporter de la joie. 
+
 Nos employés font preuve de curiosité et évoluent à la vitesse de la culture. Grâce à la structure horizontale de notre entreprise, vous aurez des opportunités dynamiques d'avoir un impact réel sur une entreprise en pleine expansion et de développer votre carrière.
-Les utilisateurs de TikTok ont la possibilité de signaler les vidéos et les commentaires qui contiennent des revendications d'utilisateurs. Ces rapports identifient les contenus qui doivent être examinés par les modérateurs. Ce processus génère un grand nombre de rapports d'utilisateurs qu'il est difficile de traiter rapidement.
-TikTok travaille à la mise au point d'un modèle prédictif capable de déterminer si une vidéo contient une revendication ou offre une opinion. Avec un modèle prédictif performant, TikTok peut réduire le nombre de rapports d'utilisateurs en attente et les classer par ordre de priorité de manière plus efficace.
+Les utilisateurs de TikTok ont la possibilité de signaler les vidéos et les commentaires qui contiennent des revendications d'utilisateurs. 
+Ces rapports identifient les contenus qui doivent être examinés par les modérateurs. Ce processus génère un grand nombre de rapports d'utilisateurs qu'il est difficile de traiter rapidement.
+
+TikTok travaille à la mise au point d'un modèle prédictif capable de déterminer si une vidéo contient une revendication ou offre une opinion.
+Avec un modèle prédictif performant, TikTok peut réduire le nombre de rapports d'utilisateurs en attente et les classer par ordre de priorité de manière plus efficace.
 
 Votre mission :
-Pour votre première mission, TikTok vous demande une proposition de projet qui créera des jalons pour les tâches du projet de classification des commentaires. N'oubliez pas de tenir compte de votre public, de votre équipe, de l'objectif du projet et des étapes PACE de chaque tâche lors de la planification de votre livrable de projet.
+
+Pour votre première mission, TikTok vous demande une proposition de projet qui créera des jalons pour les tâches du projet de classification des commentaires. 
+N'oubliez pas de tenir compte de votre public, de votre équipe, de l'objectif du projet et des étapes PACE de chaque tâche lors de la planification de votre livrable de projet.
 
 Membres de l'équipe de TikTok :
 En tant que nouveau analyste de données, vous travaillerez en étroite collaboration avec une équipe talentueuse de professionnels des données expérimentés.
@@ -44,7 +54,11 @@ Margery Adebowale- Responsable des finances, Amériques
 
 Maika Abadi- Responsable des opérations
 
-Note : L'histoire, les noms, les personnages et les incidents décrits dans ce projet sont fictifs. Aucune identification avec des personnes réelles (vivantes ou décédées) n'est prévue ou ne doit être déduite. Les données partagées dans ce projet ont été modifiées à des fins pédagogiques.
+
+Note : 
+
+L'histoire, les noms, les personnages et les incidents décrits dans ce projet sont fictifs. Aucune identification avec des personnes réelles (vivantes ou décédées) n'est prévue ou ne doit être déduite. 
+Les données partagées dans ce projet ont été modifiées à des fins pédagogiques.
 
 Votre équipe TikTok comprend plusieurs managers qui supervisent les opérations. Il est important d'adapter votre communication à leur rôle car leurs responsabilités sont moins techniques. Les membres de l'équipe chargée des données chez TikTok sont rompus à l'analyse des données et à la science des données. Les messages adressés à ces collègues plus techniques doivent être concis et précis.
 
