@@ -13,6 +13,7 @@ En tant qu'Analyste des données au sein de l'équipe de données de TikTok, ave
 Tâches du cours 1 :
 
 L'équipe de TikTok chargée des données en est aux premières étapes du projet de classification des réclamations. Les tâches suivantes sont nécessaires avant que l'équipe puisse commencer le processus d'analyse des données :
+
 •	Recueillir des informations à partir des notes des parties prenantes dans TikTok
 •	Attribuer des étapes PACE aux tâches requises pour le projet de classification
 •	Organiser les tâches en étapes
